@@ -32,7 +32,7 @@ Timer will help you to generate a message after a specific time.
 
 <i><b>Example</i> `(prefix = "/" | time = 24 hours)`<i>:</i></b><br>
 
-/timer 86400s `OR` /timer 1440m `OR` /timer 24h `OR` /timer 1d
+/timer 86400s `OR` /timer 1440m `OR` /timer 24h `OR` /timer 1d (will set a new timer for a day)
 
 # Version V11 -> V12
 
