@@ -1,23 +1,40 @@
 # Timer
-(Discord.js)
+Timer will help you to generate a message after a specific time.
 
-# Modules
-
+# Modules (3)
+```
 - npm i discord.js
 - npm i node.js
 - npm i ms
-
+```
 # File
 
-This file need to be insert inside your commands file.
-You can find the commands file by follow this link : https://github.com/Nightcore3996/Commands-file
+<b>Timer.js</b> should be inserted in your <u>Commands-file</u><br>
+- Find more about <b>Commands-file</b> <a href=https://github.com/Shedhatch/Commands-file> right here </a>
 
-# Command 
+# How to use <b>Timer.js</b> ?
 
-(put your prefix before 'timer')
+- You'll need to define a prefix<br>
+- Use timer following your prefix<br>
+- Indicate how long you want the timer to last<br>
 
-[TO SET THE TIMER]
+<i><b>Global usage:</i></b><br><br>
+<your_prefix / timer / timer_period>
 
-<timer_period>
+<i><b>Set the timer:</i></b><br>
 
-```periods = s, m, h, d```
+> periods = s, m, h, d<br>
+
+`s` -> seconds<br>
+`m` -> minutes<br>
+`h` -> hours<br>
+`d` -> days<br>
+
+<i><b>Example</i> `(prefix = "/" | time = 24 hours)`<i>:</i></b><br>
+
+/timer 86400s `OR` /timer 1440m `OR` /timer 24h `OR` /timer 1d
+
+# Version V11 -> V12
+
+- [x] The following code Is not <strong>up to date</strong> (running under V11)<br>
+- You can learn more V12 It by following <a href=https://discordjs.guide/additional-info/changes-in-v13.html#before-you-start>this link</a>
