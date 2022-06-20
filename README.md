@@ -36,5 +36,5 @@ A timer command will help you to generate a message after a specific time.
 
 # Version V11 -> V12
 
-- [x] The following code Is not <strong>up to date</strong> (running under V11)<br>
+- [x] The following code Is <strong>not up to date</strong> (running under V11)<br>
 - You can learn more V12 It by following <a href=https://discordjs.guide/additional-info/changes-in-v13.html#before-you-start>this link</a>
