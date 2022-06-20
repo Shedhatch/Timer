@@ -1,5 +1,5 @@
 # Timer
-Timer will help you to generate a message after a specific time.
+A timer command will help you to generate a message after a specific time.
 
 # Modules (3)
 ```
